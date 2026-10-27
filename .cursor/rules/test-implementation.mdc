@@ -1,0 +1,5 @@
+---
+alwaysApply: true
+---
+Always execute `npx expo lint --fix` after new implementations or new changes and fix all errors found.
+You should create a new cursor rules, for every recurrent problem you find (you can check how to do a new cursor rule checking cursor-rules.mdc) 

@@ -1,0 +1,6 @@
+---
+alwaysApply: true
+---
+* **Global components**: You should create global components to be easier apply changes. 
+* **Reuse first**: Use existing components in `global/`.
+* **Good Practices**: Remember to use SOLID principles and DRY (Don't repeat yourself)

@@ -1,0 +1,4 @@
+---
+alwaysApply: true
+---
+Avoid adding comments in the code unless they’re really necessary.
